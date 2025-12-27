@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Downloaded media (don't upload videos!)
+youtube_media/
+media/
+*.mp4
+*.webm
+*.mkv
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Thumbnails
+thumbnails/
+*.jpg
+*.png
+*.webp
+
+# Cookies (if you add them later)
+cookies.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
